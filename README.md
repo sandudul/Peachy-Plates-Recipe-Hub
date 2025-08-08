@@ -25,9 +25,9 @@ The design focuses on enhancing user experience with **visually engaging layouts
 
 ### 📷 UI Screens
 
-| Onboarding screen1| Onboarding screen2 | Onboarding screen3 | Home Screen | Recipe Details | Saved Recipes |
+| Logo screen| Onboarding screen1 | Onboarding screen2 |Onboarding screen3 | Home Screen | Recipe Details |
 |-------------|----------------|---------------|---------------|---------------|---------------|
-| ![Saved Recipes](designs/1.png) | ![Saved Recipes](designs/2.png) | ![Saved Recipes](designs/3.png) | ![Home Screen](designs/4.png) | ![Recipe Details](designs/5.png) | ![Saved Recipes](designs/6.png) |
+| ![Saved Recipes](designs/17.png) | ![Saved Recipes](designs/1.png) | ![Saved Recipes](designs/2.png) | ![Home Screen](designs/3.png) | ![Recipe Details](designs/8.png) | ![Saved Recipes](designs/11.png) |
 
 | Onboarding screen1| Onboarding screen2 | Onboarding screen3 | Home Screen | Recipe Details | Saved Recipes | 
 |-------------|----------------|---------------|---------------|---------------|---------------|
