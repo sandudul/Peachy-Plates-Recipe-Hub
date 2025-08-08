@@ -29,13 +29,13 @@ The design focuses on enhancing user experience with **visually engaging layouts
 |-------------|----------------|---------------|---------------|---------------|---------------|
 | ![Saved Recipes](designs/17.png) | ![Saved Recipes](designs/1.png) | ![Saved Recipes](designs/2.png) | ![Home Screen](designs/3.png) | ![Recipe Details](designs/8.png) | ![Saved Recipes](designs/11.png) |
 
-| Onboarding screen1| Onboarding screen2 | Onboarding screen3 | Home Screen | Recipe Details | Saved Recipes | 
+| Sign in/Sign up screen| SugnIn screen | ForgetPassword screen | Verification Screen | Profile Screen1 | Profile Screen2 | 
 |-------------|----------------|---------------|---------------|---------------|---------------|
-| ![Saved Recipes](designs/7.png) | ![Saved Recipes](designs/8.png) | ![Saved Recipes](designs/9.png) | ![Home Screen](designs/10.png) | ![Recipe Details](designs/11.png) | ![Saved Recipes](designs/12.png) |
+| ![Saved Recipes](designs/18.png) | ![Saved Recipes](designs/4.png) | ![Saved Recipes](designs/5.png) | ![Home Screen](designs/6.png) | ![Recipe Details](designs/12.png) | ![Saved Recipes](designs/13.png) |
 
-| Onboarding screen1| Onboarding screen2 | Onboarding screen3 | Home Screen | Recipe Details | Saved Recipes | 
-|-------------|----------------|---------------|---------------|---------------|---------------|
-| ![Saved Recipes](designs/13.png) | ![Saved Recipes](designs/14.png) | ![Saved Recipes](designs/15.png) | ![Home Screen](designs/16.png) | ![Recipe Details](designs/17.png) | ![Saved Recipes](designs/18.png) |
+| Search screen1| Favourites screen | varieties screen | Add Recipe Screen1 | Add Recipe Screen2 | 
+|-------------|----------------|---------------|---------------|---------------|
+| ![Saved Recipes](designs/14.png) | ![Saved Recipes](designs/9.png) | ![Saved Recipes](designs/10.png) | ![Recipe Details](designs/15.png) | ![Saved Recipes](designs/16.png) |
 
 ---
 
