@@ -40,7 +40,7 @@ The design focuses on enhancing user experience with **visually engaging layouts
 ---
 
 ## 🛠 Skills & Tools
-- **Figma** (UI/UX Design)
+- **Figma** (UI|UX Design)
 - **User Interface Design**
 - **Canva** (for supporting visuals)
 
