@@ -53,4 +53,4 @@ The design focuses on enhancing user experience with **visually engaging layouts
 ---
 
 ## 📜 License
-Designs: CC BY-NC 4.0 License  
+Designs; CC BY-NC 4.0 License  
